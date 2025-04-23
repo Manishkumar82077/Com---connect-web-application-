@@ -10,6 +10,11 @@ The **Community Helper Application** is a platform designed to connect volunteer
 ![Community Helper Logo](https://placeholder.com/logo.png) <!-- Replace with actual logo URL -->
 
 ---
+## ScreenShot
+![Home](jobportal-yt/SS/home.jpg)
+![Job Listings](jobportal-yt/SS/job.jpg)
+![Login](jobportal-yt/SS/login.jpg)
+![Signup](jobportal-yt/SS/signup.jpg)
 
 ## Features ✨
 
